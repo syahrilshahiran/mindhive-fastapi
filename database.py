@@ -7,7 +7,7 @@ load_dotenv()
 
 DATABASE_URL = os.getenv(
     "DATABASE_URL", 
-    "postgresql+psycopg2://postgres:syasha@localhost:5432/mindhive"
+    "postgresql://postgres:password@localhost:5432/mindhive"
 )
 
 engine = create_engine(
