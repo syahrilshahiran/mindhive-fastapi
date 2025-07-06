@@ -1,9 +1,7 @@
 FROM ollama/ollama:latest
+FROM python:3.11-slim
 
-RUN apt-get update && \
-    apt-get install -y python3.11 python3.11-venv python3.11-dev python3-pip curl && \
-    ln -sf /usr/bin/python3.11 /usr/bin/python && \
-    pip install --upgrade pip
+RUN apt-get update
 
 WORKDIR /app
 
