@@ -1,10 +1,13 @@
 #!/bin/bash
 
-# Start Ollama in the background
+# Start Ollama in background
 ollama serve &
 
-# Wait a bit to make sure Ollama is up
+# Wait a few seconds for the server to be ready
 sleep 3
 
-# Start FastAPI with uvicorn
-uvicorn app.main:app --host 0.0.0.0 --port 8000
+# Pull model (only once — Ollama caches it)
+ollama pull llama3
+
+# Start FastAPI
+uvicorn main:app --host 0.0.0.0 --port 8000
