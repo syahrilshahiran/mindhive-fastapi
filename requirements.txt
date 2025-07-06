@@ -3,6 +3,7 @@ annotated-types==0.7.0
 anyio @ file:///croot/anyio_1745334642479/work
 attrs==25.3.0
 certifi==2025.6.15
+charset-normalizer==3.4.2
 click==8.2.1
 dnspython==2.7.0
 email_validator==2.2.0
@@ -19,7 +20,10 @@ Mako==1.3.10
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
+numpy==2.3.1
+ollama==0.5.1
 outcome==1.3.0.post0
+pgvector==0.4.1
 psycopg2-binary==2.9.10
 pydantic @ file:///croot/pydantic_1750768261732/work
 pydantic_core @ file:///croot/pydantic-core_1750754736071/work
@@ -28,6 +32,7 @@ PySocks==1.7.1
 python-dotenv==1.1.1
 python-multipart==0.0.20
 PyYAML==6.0.2
+requests==2.32.4
 rich==14.0.0
 rich-toolkit==0.14.8
 selenium==4.34.0
@@ -36,6 +41,7 @@ sniffio @ file:///croot/sniffio_1705431295498/work
 sortedcontainers==2.4.0
 SQLAlchemy==2.0.41
 starlette==0.38.6
+tqdm==4.67.1
 trio==0.30.0
 trio-websocket==0.12.2
 typer==0.16.0
