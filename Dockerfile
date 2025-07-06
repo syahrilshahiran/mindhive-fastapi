@@ -1,25 +1,20 @@
-FROM ollama/ollama
+FROM ollama/ollama:latest
 
-# Install Python & pip
 RUN apt-get update && \
-    apt-get install -y python3 python3-pip curl && \
-    pip3 install --upgrade pip
+    apt-get install -y python3.11 python3.11-venv python3.11-dev python3-pip curl && \
+    ln -sf /usr/bin/python3.11 /usr/bin/python && \
+    pip install --upgrade pip
 
-# Create app directory
 WORKDIR /app
 
-# Copy requirements and install
 COPY requirements.txt .
-RUN pip3 install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy app code
 COPY app /app/app
 COPY start.sh /app/start.sh
 
 RUN chmod +x /app/start.sh
 
-# Pull the model (optional: remove this for smaller image)
-RUN ollama pull llama3.2
+RUN ollama pull llama3
 
-# Set entrypoint
 CMD ["bash", "./start.sh"]
