@@ -1,13 +1,11 @@
-import json
 import logging
-from fastapi import FastAPI, Query, Depends, Request
+from fastapi import FastAPI, Path, Query, Depends
 from fastapi.responses import StreamingResponse
 from sqlalchemy import text
 from sqlalchemy.orm import Session
-from typing import List, Optional, Dict, Any
+from typing import List, Optional
 from database import get_db
-from models import Outlet
-from math import radians, cos, sin, asin, sqrt
+from models import Outlet, OutletProximity
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 from ollama import chat, embeddings
@@ -43,32 +41,22 @@ class OutletResponse(BaseModel):
 def read_root():
     return {"Hello": "World"}
 
-# --- Haversine formula for distance ---
-def haversine(lat1, lon1, lat2, lon2):
-    R = 6371
-    dlat = radians(lat2 - lat1)
-    dlon = radians(lon2 - lon1)
-    a = sin(dlat/2)**2 + cos(radians(lat1)) * cos(radians(lat2)) * sin(dlon/2)**2
-    c = 2 * asin(sqrt(a))
-    return R * c
-
 @app.get("/outlets", response_model=List[OutletResponse])
 def get_outlets(
     lat: Optional[float] = Query(None, description="Latitude to filter by proximity"),
     lon: Optional[float] = Query(None, description="Longitude to filter by proximity"),
-    radius_km: float = Query(5.0, description="Radius in km"),
     db: Session = Depends(get_db),
 ):
     """Get outlets from the database"""
     query = db.query(Outlet).filter(Outlet.latitude != None, Outlet.longitude != None)
     
-    if lat is not None and lon is not None:
-        results = []
-        for outlet in query.all():
-            distance = haversine(lat, lon, outlet.latitude, outlet.longitude)
-            if distance <= radius_km:
-                results.append(outlet)
-        return results
+    # if lat is not None and lon is not None:
+    #     results = []
+    #     for outlet in query.all():
+    #         distance = haversine(lat, lon, outlet.latitude, outlet.longitude)
+    #         if distance <= radius_km:
+    #             results.append(outlet)
+    #     return results
 
     return query.all()
 
@@ -82,6 +70,26 @@ def get_all_outlet_data(db: Session):
         f"{o.name}, Address: {o.address}, Services: {', '.join(o.services or [])}"
         for o in outlets
     )
+
+@app.get("/outlet/{outlet_id}/catchment")
+def get_catchment(outlet_id: int = Path(...), db: Session = Depends(get_db)):
+    proximities = db.query(OutletProximity).filter_by(outlet_id=outlet_id).all()
+    outlet_ids = [p.intersecting_outlet_id for p in proximities]
+
+    nearby_outlets = db.query(Outlet).filter(Outlet.id.in_(outlet_ids)).all()
+
+    return [
+        {
+            "id": o.id,
+            "name": o.name,
+            "latitude": o.latitude,
+            "longitude": o.longitude,
+            "distance_km": next((p.distance_km for p in proximities if p.intersecting_outlet_id == o.id), None)
+        }
+        for o in nearby_outlets
+        if o.latitude is not None and o.longitude is not None
+    ]
+
 # Get embedding for user question
 def get_query_embedding(query: str) -> List[float]:
     """Get embedding for user question"""

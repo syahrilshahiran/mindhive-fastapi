@@ -43,5 +43,8 @@ def insert_outlets(data):
         db.close()
 
 if __name__ == "__main__":
+    """Main function to run the script
+        Command to run: python -m scripts.upload_outlets
+    """
     data = load_data()
     insert_outlets(data)

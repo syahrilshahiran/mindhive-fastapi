@@ -494,7 +494,7 @@ class McDonaldsScraperMalaysia:
 
 if __name__ == "__main__":
     """Main function to run the scraper
-        Command to run: python -m scripts.mcdonalds_scraper.py
+        Command to run: python -m scripts.mcdonalds_scraper
     """
     scraper = McDonaldsScraperMalaysia(headless=True)  # Set to True for production
     outlets = scraper.scrape_outlets()

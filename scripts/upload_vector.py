@@ -84,4 +84,7 @@ def upload_outlet_vectors():
     logger.info("Vector upload complete.")
 
 if __name__ == "__main__":
+    """Main function to run the script
+        Command to run: python -m scripts.upload_vector
+    """
     upload_outlet_vectors()
