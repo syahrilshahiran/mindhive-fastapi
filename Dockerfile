@@ -1,4 +1,3 @@
-FROM ollama/ollama:latest
 FROM python:3.11-slim
 
 RUN apt-get update
@@ -12,7 +11,7 @@ COPY main.py /app/main.py
 COPY start.sh /app/start.sh
 
 RUN chmod +x /app/start.sh
-
+FROM ollama/ollama:latest
 RUN ollama pull llama3
 
 CMD ["bash", "./start.sh"]
