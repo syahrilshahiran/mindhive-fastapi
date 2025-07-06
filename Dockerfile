@@ -12,6 +12,7 @@ COPY start.sh /app/start.sh
 
 RUN chmod +x /app/start.sh
 FROM ollama/ollama:latest
+RUN ollama serve
 RUN ollama pull llama3
 
 CMD ["bash", "./start.sh"]
