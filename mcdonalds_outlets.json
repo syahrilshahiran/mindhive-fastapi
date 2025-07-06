@@ -1,0 +1,845 @@
+[
+  {
+    "name": "McDonald's Bukit Bintang",
+    "address": "120-120A Jalan Bukit Bintang, 55100, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-21427843",
+    "fax": "03-21418009",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Bangsar",
+    "address": "48, Jalan Telawi Lima, 59100, Bangsar Baru, Bangsar, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-22012551",
+    "fax": "03-22843790",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Alpha Angle",
+    "address": "Lot G-13, Ground Floor, Alpha Angle Complex, Jalan R1, Wangsa Maju, 53000, Setapak, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.202098%2C101.734244",
+    "phone": "03-41314015",
+    "fax": "03-41428618",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.202098,
+    "longitude": 101.734244
+  },
+  {
+    "name": "McDonald's Leisure Mall Cheras",
+    "address": "LG 16, Lower Ground Floor, Leisure Mall, Taman Segar, No. 6, Jalan Cheras, 56100, Cheras, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-91345785",
+    "fax": "03-91322577",
+    "services": [
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Desa Pandan",
+    "address": "Lot 2 & 2-1, Jalan 1/76D, Desa Pandan, 55100, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.14709%2C101.736853",
+    "phone": "03-92028218",
+    "fax": "03-92872636",
+    "services": [
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.14709,
+    "longitude": 101.736853
+  },
+  {
+    "name": "McDonald's Jalan Tun Perak",
+    "address": "38, Jalan Tun Perak, Ground & Mezzanine Floor, Wisma Teck Lee, 50050, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.149178%2C101.696865",
+    "phone": "03-20266899",
+    "fax": "03-20261899",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.149178,
+    "longitude": 101.696865
+  },
+  {
+    "name": "McDonald's Gombak",
+    "address": "M01 & M02, Kompleks Idaman, No. 40 - 50, Jalan 2/21D, Medan Idaman, Batu 5 1/4, Jalan Gombak, 53000, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-40319751",
+    "fax": "03-40252988",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Mont Kiara",
+    "address": "No. 1, Block D, Plaza Mont Kiara, Jalan Bukit Kiara, 50480, Bukit Kiara, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-62063255",
+    "fax": "03-62033745",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Petron Seremban-KL Highway DT",
+    "address": "8KM, KL-Seremban Highway, 57000, Seri Kembangan, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-89423932",
+    "fax": "03-89423932",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Bandar Sri Damansara DT",
+    "address": "Lot PT21552 & PT21553, Mukim Sungai Buloh, Persiaran Perdana, 52200, Bandar Sri Damansara, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.195093%2C101.607767",
+    "phone": "03-62617064",
+    "fax": "03-62749559",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.195093,
+    "longitude": 101.607767
+  },
+  {
+    "name": "McDonald's Pandan Mewah DT",
+    "address": "Bangunan Restoran McDonald's, Jalan Mewah Utara, 68000, Ampang, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "012-6214202",
+    "fax": "03-42972892",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Pandan Mewah DT",
+    "address": "Bangunan Restoran McDonald's, Jalan Mewah Utara, 68000, Ampang, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "012-6214202",
+    "fax": "03-42972892",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Setiawangsa DT",
+    "address": "Lot 16794 & 16795, Jalan 37/56, Taman Setiawangsa, 54200, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.178129%2C101.743585",
+    "phone": "03-42567660",
+    "fax": "03-42575362",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.178129,
+    "longitude": 101.743585
+  },
+  {
+    "name": "McDonald's Berjaya Times Square",
+    "address": "Lot 05-93, 93A, No. 1, Jalan Imbi, 55100, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.142065%2C101.710819",
+    "phone": "03-21100154",
+    "fax": "03-21100154",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.142065,
+    "longitude": 101.710819
+  },
+  {
+    "name": "McDonald's Kuchai Lama DT",
+    "address": "1/116B, Off Jalan Kuchai Lama, Kuchai Entrepreneurs Park, 58200, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.087352%2C101.690106",
+    "phone": "03-79822180",
+    "fax": "03-79832180",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.087352,
+    "longitude": 101.690106
+  },
+  {
+    "name": "McDonald's Taman Connaught DT",
+    "address": "Lot 18113, Jalan Cendikiawan, 55100, Mukim Petaling, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.081484%2C101.731946",
+    "phone": "03-91016190",
+    "fax": "03-91014190",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.081484,
+    "longitude": 101.731946
+  },
+  {
+    "name": "McDonald's Petronas TPM DT",
+    "address": "Petronas Petrol Station, Technology Park Malaysia, Seremban KL-Highway, 50700, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.056652%2C101.704186",
+    "phone": "03-90541502",
+    "fax": "03-90565045",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.056652,
+    "longitude": 101.704186
+  },
+  {
+    "name": "McDonald's Petronas Melati DT",
+    "address": "Lot 3644 HS (D) 70344 &, Lot PT 8081 HS (D) 107241, Taman Melati, Mukim Setapak, 53100, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-41613791",
+    "fax": "03-41473107",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Shell Jalan Cheras DT",
+    "address": "Lot PT 7430, HSD 111856, KM5.5, Jalan Cheras, 56000, Cheras, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-91342127",
+    "fax": "03-91331724",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Petronas MRR2 Kepong DT",
+    "address": "Lot 25747, Lebuh Raya Selayang, Kepong Lebuh Raya, Lingkaran Tengah 2 (MRR 2), 52100, Kepong, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.229265%2C101.65503",
+    "phone": "03-62596498",
+    "fax": "03-62596501",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.229265,
+    "longitude": 101.65503
+  },
+  {
+    "name": "McDonald's M2 Mall",
+    "address": "Lot 1, Level1, BUSANA, Menara MARA, No. 232, Jalan Tuanku Abdul Rahman, 50100, Kuala Lumpur , Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.157924%2C101.695732",
+    "phone": "03-22028034",
+    "fax": "03-22028164",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.157924,
+    "longitude": 101.695732
+  },
+  {
+    "name": "McDonald's TTDI (Taman Tun Dr Ismail)",
+    "address": "No. 2, 2A & B, Jalan Tun Mohd Fuad 2, Taman Tun Dr Ismail, 60000, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-77310984",
+    "fax": "03-77221344",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's BHP Taman Melawati DT",
+    "address": "Lot PT 8669, Jalan Lingkaran Tengah II, 53100, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.220217%2C101.735889",
+    "phone": "03-41621453",
+    "fax": "03-41620463",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.220217,
+    "longitude": 101.735889
+  },
+  {
+    "name": "McDonald's NU Sentral",
+    "address": "Unit No. L4. 02 & 03, Level 4, 1 Sentral, Jalan Travers, 50470, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.133295%2C101.687277",
+    "phone": "03-22760042",
+    "fax": "03-22722053",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.133295,
+    "longitude": 101.687277
+  },
+  {
+    "name": "McDonald's Sri Petaling",
+    "address": "No 63 & 63-1, Jalan Radin Tengah, Bandar Baru Sri Petaling, 57000, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-90540493",
+    "fax": "03-90540493",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Mid Valley 3",
+    "address": "Tingkat 3, Mid Valley Megamall, Lingkaran Syed Putra, 59200, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.117399%2C101.677572",
+    "phone": "03-22010506",
+    "fax": "03-22012437",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": 3.117399,
+    "longitude": 101.677572
+  },
+  {
+    "name": "McDonald's KL Sentral",
+    "address": "Lot 14, 15, & 16, First Floor, Kuala Lumpur Sentral Station, 50470, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.134615%2C101.686593",
+    "phone": "03-22722431",
+    "fax": "03-22798797",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": 3.134615,
+    "longitude": 101.686593
+  },
+  {
+    "name": "McDonald's Suria KLCC",
+    "address": "Lot C35 - 38, Concourse Floor, Suria KLCC Shopping Centre, Jalan Ampang, 50088, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-27151512",
+    "fax": "03-27151512",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's MyTown Mall",
+    "address": "Lot No. B1-03 & B1-E-03, MyTown Shopping Centre, No. 6, Jalan Cohcrane, Section 90, 55100, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.134208%2C101.723645",
+    "phone": "03-27322567",
+    "fax": "03-27322566",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.134208,
+    "longitude": 101.723645
+  },
+  {
+    "name": "McDonald's Sunway Velocity Mall",
+    "address": "LG, Sunway Velocity Mall, Jalan Peel, 55100, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-27320717",
+    "fax": "03-27320717",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Intermark Mall",
+    "address": "Lot No. G17, G17A & G17B, Ground Floor, Intermark Mall, 348, Jalan Tun Razak, 50400, Kuala Lumpur, Malaysia",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.161279%2C101.720181",
+    "phone": "03-27155667",
+    "fax": "03-27155667",
+    "services": [
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.161279,
+    "longitude": 101.720181
+  },
+  {
+    "name": "McDonald's Danau Kota DT",
+    "address": "Part of Lot 201138, Jalan Langkawi, Mukim Setapak, Taman Danau Kota, 53300 Kuala Lumpur.",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.2066149%2C101.7175568",
+    "phone": "03-41310897",
+    "fax": "03-41317105",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.2066149,
+    "longitude": 101.7175568
+  },
+  {
+    "name": "McDonald's Desa Park City DT",
+    "address": "Lot GF32 & FF31, Waterfront Parkcity, Persiaran Residen, Desapark City, 52200 Kuala Lumpur.",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-62611632",
+    "fax": "03-62610971",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Pearl Point DT",
+    "address": "Lot No G-08, Ground Floor, Pearl Point Shopping Complex, 5th Mile, Old Klang Road, 58000 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.084915%2C101.673568",
+    "phone": "03-79712465",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": 3.084915,
+    "longitude": 101.673568
+  },
+  {
+    "name": "McDonald's Jalan P. Ramlee",
+    "address": "Lot G-W-1, Ground Floor, West Wing, Rohas Pure Circle, No 9, Jalan P Ramlee, 50450 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-21815851",
+    "fax": "",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's BHP Jalan Kepong",
+    "address": "Lot PT 1, Batu 6 1/2, Jalan Kepong, 52000 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.208163%2C101.653579",
+    "phone": "03-62500090",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": 3.208163,
+    "longitude": 101.653579
+  },
+  {
+    "name": "McDonald's Shell Jalan Sentul DT",
+    "address": "PT 8938, Jalan Sentul/Batu Caves, Mukim Setapak, Sentul, 51100 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.12223%2C101.41208",
+    "phone": "016-2127692",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": 3.12223,
+    "longitude": 101.41208
+  },
+  {
+    "name": "McDonald's Wisma Lim Foo Yong",
+    "address": "Wisma Lim Foo Yong, Lot No. 62, Seksyen 57, Jalan Raja Chulan, 50250 Kuala Lumpur.",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.09032%2C101.42334",
+    "phone": "03-21102479",
+    "fax": "",
+    "services": [
+      "WiFi",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": 3.09032,
+    "longitude": 101.42334
+  },
+  {
+    "name": "McDonald's Sentul UOA DT",
+    "address": "LOT PT 10098, Jalan Sentul Pasar, Mukim Setapak Dalam, Bandaraya Kuala Lumpur 51000 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.202057%2C101.689976",
+    "phone": "03-27029214",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "24 Hours"
+    ],
+    "latitude": 3.202057,
+    "longitude": 101.689976
+  },
+  {
+    "name": "McDonald's Shell Tasik Ampang DT",
+    "address": "Lot PT 2536, Lebuh Raya Lingkaran Tengah 2, Mukim Ampang, 55000 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.15191975%2C101.745321",
+    "phone": "03-92013561",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "24 Hours"
+    ],
+    "latitude": 3.15191975,
+    "longitude": 101.745321
+  },
+  {
+    "name": "McDonald's Shell Bukit Bintang DT",
+    "address": "225, Bukit Bintang St, Imbi, 55100 Kuala Lumpur, Federal Territory Of Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-21101876",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "WiFi"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Shell Jalan Kuching DT",
+    "address": "Lot 58043, Jalan Kuching, Mukim Batu 68100, Wlayah Persekutuan Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.223098%2C101.6721257",
+    "phone": "",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "WiFi"
+    ],
+    "latitude": 3.223098,
+    "longitude": 101.6721257
+  },
+  {
+    "name": "McDonald's Shell Wangsa Maju DT",
+    "address": "Lot 28332, Jalan 8/27A, Pusat Bandar Wangsa Maju, 53300 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.19744%2C101.74467413",
+    "phone": "03-41315949",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "WiFi"
+    ],
+    "latitude": 3.19744,
+    "longitude": 101.74467413
+  },
+  {
+    "name": "McDonald's Jalan Tun Razak DT",
+    "address": "No 9, Jalan Fletcher, 50400 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": null,
+    "phone": "03-26022147",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "24 Hours"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "McDonald's Petron North Kiara DT",
+    "address": "452, Jalan Segambut, Kampung Segambut Tengah, 1200 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.18298%2C101.65492",
+    "phone": "03-62423593",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "24 Hours"
+    ],
+    "latitude": 3.18298,
+    "longitude": 101.65492
+  },
+  {
+    "name": "McDonald's Pantai Sentral Park DT",
+    "address": "No. 2, Jalan Pantai Sentral 1, Pantai Sentral, 59200, Wilayah Persekutuan Kuala Lumpur.",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.101972%2C101.666333",
+    "phone": "03-22411097",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "24 Hours"
+    ],
+    "latitude": 3.101972,
+    "longitude": 101.666333
+  },
+  {
+    "name": "McDonald's BHP Genting Klang DT",
+    "address": "5241 & 5242, 295, Jalan Genting Kelang, Perusahaan PKNS, 53200 Kuala Lumpur.",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.196826%2C101.7137842",
+    "phone": "",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "24 Hours"
+    ],
+    "latitude": 3.196826,
+    "longitude": 101.7137842
+  },
+  {
+    "name": "McDonald's Giant Ulu Kelang",
+    "address": "SG03 & SG04, Giant Ulu Kelang, Lot 13793 & 13796 Jalan Changkat Permata, 53300 Kuala Lumpur.",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.207414%2C101.7515586",
+    "phone": "03-41085134",
+    "fax": "",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "24 Hours"
+    ],
+    "latitude": 3.207414,
+    "longitude": 101.7515586
+  },
+  {
+    "name": "McDonald's Titiwangsa DT",
+    "address": "Lot 8, Section 85, Jalan Pahang, 53000, Setapak, Kuala Lumpur, Malaysia.",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.179551%2C101.700383",
+    "phone": "03-40311346",
+    "fax": "03-40224072",
+    "services": [
+      "Drive-Thru",
+      "McCafe",
+      "WiFi",
+      "Birthday Party",
+      "Delivery",
+      "24 Hours"
+    ],
+    "latitude": 3.179551,
+    "longitude": 101.700383
+  },
+  {
+    "name": "McDonald's Shell Taman Desa DT",
+    "address": "1 Jln 3/109E, Desa Business Park, Taman Desa, 58100 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.10078878%2C101.68613031",
+    "phone": "03-79720127",
+    "fax": "",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "24 Hours"
+    ],
+    "latitude": 3.10078878,
+    "longitude": 101.68613031
+  },
+  {
+    "name": "McDonald's Desa Petaling SF",
+    "address": "1-3, Pusat Perdagangan Salak II, Jalan 2/125, Taman Desa Petaling, 57100 Kuala Lumpur",
+    "operating_hours": {},
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.0845%2C101.700753",
+    "phone": "",
+    "fax": "",
+    "services": [
+      "McCafe",
+      "WiFi",
+      "24 Hours"
+    ],
+    "latitude": 3.0845,
+    "longitude": 101.700753
+  }
+]
