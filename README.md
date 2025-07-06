@@ -49,7 +49,11 @@ Create a new PostgreSQL database and configure the `DATABASE_URL` environment va
 
 ```bash
 alembic upgrade head
+
+# Optional: create new migration file
+alembic revision --autogenerate -m "create outlets"
 ```
+
 
 ### 5. Run the scraper
 
