@@ -1,4 +1,5 @@
-FROM python3.11-slim
+FROM python:3.11-slim
+
 
 # Set working directory
 WORKDIR /app
