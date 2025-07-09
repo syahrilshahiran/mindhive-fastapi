@@ -277,36 +277,41 @@ class McDonaldsScraperMalaysia:
         return None, None
 
     def _extract_services(self, element) -> List[str]:
-        """Extract available services from icons
-            Args:
-                element (WebElement): The element to search in
-
-            Returns:
-                List[str]: The extracted services, or an empty list if not found
+        """Extract available services from icons or text
+        Args:
+            element (WebElement): The element to search in
+        Returns:
+            List[str]: The extracted services, or an empty list if not found
         """
         services = []
         try:
-            # Common service indicators
             service_mapping = {
+                "24": "24 Hours",
+                "birthday": "Birthday Party",
+                "breakfast": "Breakfast",
+                "cashless": "Cashless Facility",
+                "dessert": "Dessert Center",
                 "drive": "Drive-Thru",
                 "mccafe": "McCafe",
+                "delivery": "McDelivery",
+                "surau": "Surau",
                 "wifi": "WiFi",
-                "parking": "Parking",
-                "party": "Birthday Party",
-                "delivery": "Delivery",
-                "24": "24 Hours",
+                "kiosk": "Digital Order Kiosk",
+                "electric": "Electric Vehicle",
             }
 
             element_html = element.get_attribute("outerHTML").lower()
             element_text = element.text.lower()
 
-            for key, service in service_mapping.items():
-                if key in element_html or key in element_text:
+            for keyword, service in service_mapping.items():
+                if keyword in element_html or keyword in element_text:
                     services.append(service)
 
         except Exception:
             pass
-        return services
+
+        return list(set(services))  # Deduplicate
+
 
     def _get_outlet_elements(self) -> List:
         """Find all outlet elements on the page"""

@@ -7,11 +7,15 @@
     "phone": "03-21427843",
     "fax": "03-21418009",
     "services": [
-      "McCafe",
-      "WiFi",
+      "Dessert Center",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi",
+      "McCafe"
     ],
     "latitude": null,
     "longitude": null
@@ -20,18 +24,21 @@
     "name": "McDonald's Bangsar",
     "address": "48, Jalan Telawi Lima, 59100, Bangsar Baru, Bangsar, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.13295%2C101.672297",
     "phone": "03-22012551",
     "fax": "03-22843790",
     "services": [
-      "McCafe",
-      "WiFi",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.13295,
+    "longitude": 101.672297
   },
   {
     "name": "McDonald's Alpha Angle",
@@ -41,10 +48,14 @@
     "phone": "03-41314015",
     "fax": "03-41428618",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
     "latitude": 3.202098,
     "longitude": 101.734244
@@ -53,33 +64,38 @@
     "name": "McDonald's Leisure Mall Cheras",
     "address": "LG 16, Lower Ground Floor, Leisure Mall, Taman Segar, No. 6, Jalan Cheras, 56100, Cheras, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.090122%2C101.74152",
     "phone": "03-91345785",
     "fax": "03-91322577",
     "services": [
-      "WiFi",
+      "Dessert Center",
+      "McDelivery",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.090122,
+    "longitude": 101.74152
   },
   {
     "name": "McDonald's Desa Pandan",
     "address": "Lot 2 & 2-1, Jalan 1/76D, Desa Pandan, 55100, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.14709%2C101.736853",
+    "waze_link": null,
     "phone": "03-92028218",
     "fax": "03-92872636",
     "services": [
-      "WiFi",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi"
     ],
-    "latitude": 3.14709,
-    "longitude": 101.736853
+    "latitude": null,
+    "longitude": null
   },
   {
     "name": "McDonald's Jalan Tun Perak",
@@ -89,11 +105,15 @@
     "phone": "03-20266899",
     "fax": "03-20261899",
     "services": [
-      "McCafe",
-      "WiFi",
+      "Dessert Center",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi",
+      "McCafe"
     ],
     "latitude": 3.149178,
     "longitude": 101.696865
@@ -106,10 +126,13 @@
     "phone": "03-40319751",
     "fax": "03-40252988",
     "services": [
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
     "latitude": null,
     "longitude": null
@@ -118,36 +141,42 @@
     "name": "McDonald's Mont Kiara",
     "address": "No. 1, Block D, Plaza Mont Kiara, Jalan Bukit Kiara, 50480, Bukit Kiara, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.165745%2C101.652203",
     "phone": "03-62063255",
     "fax": "03-62033745",
     "services": [
-      "McCafe",
-      "WiFi",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.165745,
+    "longitude": 101.652203
   },
   {
     "name": "McDonald's Petron Seremban-KL Highway DT",
     "address": "8KM, KL-Seremban Highway, 57000, Seri Kembangan, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.047047%2C101.705739",
     "phone": "03-89423932",
     "fax": "03-89423932",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.047047,
+    "longitude": 101.705739
   },
   {
     "name": "McDonald's Bandar Sri Damansara DT",
@@ -157,12 +186,15 @@
     "phone": "03-62617064",
     "fax": "03-62749559",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.195093,
     "longitude": 101.607767
@@ -171,19 +203,22 @@
     "name": "McDonald's Pandan Mewah DT",
     "address": "Bangunan Restoran McDonald's, Jalan Mewah Utara, 68000, Ampang, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.128108%2C101.762843",
     "phone": "012-6214202",
     "fax": "03-42972892",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.128108,
+    "longitude": 101.762843
   },
   {
     "name": "McDonald's Pandan Mewah DT",
@@ -193,12 +228,15 @@
     "phone": "012-6214202",
     "fax": "03-42972892",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": null,
     "longitude": null
@@ -211,12 +249,15 @@
     "phone": "03-42567660",
     "fax": "03-42575362",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.178129,
     "longitude": 101.743585
@@ -229,10 +270,13 @@
     "phone": "03-21100154",
     "fax": "03-21100154",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "McDelivery",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
     "latitude": 3.142065,
     "longitude": 101.710819
@@ -241,19 +285,22 @@
     "name": "McDonald's Kuchai Lama DT",
     "address": "1/116B, Off Jalan Kuchai Lama, Kuchai Entrepreneurs Park, 58200, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.087352%2C101.690106",
+    "waze_link": null,
     "phone": "03-79822180",
     "fax": "03-79832180",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
-    "latitude": 3.087352,
-    "longitude": 101.690106
+    "latitude": null,
+    "longitude": null
   },
   {
     "name": "McDonald's Taman Connaught DT",
@@ -263,12 +310,15 @@
     "phone": "03-91016190",
     "fax": "03-91014190",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.081484,
     "longitude": 101.731946
@@ -277,55 +327,64 @@
     "name": "McDonald's Petronas TPM DT",
     "address": "Petronas Petrol Station, Technology Park Malaysia, Seremban KL-Highway, 50700, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.056652%2C101.704186",
+    "waze_link": null,
     "phone": "03-90541502",
     "fax": "03-90565045",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
-    "latitude": 3.056652,
-    "longitude": 101.704186
+    "latitude": null,
+    "longitude": null
   },
   {
     "name": "McDonald's Petronas Melati DT",
     "address": "Lot 3644 HS (D) 70344 &, Lot PT 8081 HS (D) 107241, Taman Melati, Mukim Setapak, 53100, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.225019%2C101.728649",
     "phone": "03-41613791",
     "fax": "03-41473107",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.225019,
+    "longitude": 101.728649
   },
   {
     "name": "McDonald's Shell Jalan Cheras DT",
     "address": "Lot PT 7430, HSD 111856, KM5.5, Jalan Cheras, 56000, Cheras, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.104739%2C101.732853",
     "phone": "03-91342127",
     "fax": "03-91331724",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.104739,
+    "longitude": 101.732853
   },
   {
     "name": "McDonald's Petronas MRR2 Kepong DT",
@@ -335,12 +394,15 @@
     "phone": "03-62596498",
     "fax": "03-62596501",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.229265,
     "longitude": 101.65503
@@ -353,10 +415,12 @@
     "phone": "03-22028034",
     "fax": "03-22028164",
     "services": [
-      "McCafe",
+      "McDelivery",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
     "latitude": 3.157924,
     "longitude": 101.695732
@@ -365,18 +429,21 @@
     "name": "McDonald's TTDI (Taman Tun Dr Ismail)",
     "address": "No. 2, 2A & B, Jalan Tun Mohd Fuad 2, Taman Tun Dr Ismail, 60000, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.140522%2C101.629209",
     "phone": "03-77310984",
     "fax": "03-77221344",
     "services": [
-      "McCafe",
-      "WiFi",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.140522,
+    "longitude": 101.629209
   },
   {
     "name": "McDonald's BHP Taman Melawati DT",
@@ -386,12 +453,15 @@
     "phone": "03-41621453",
     "fax": "03-41620463",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.220217,
     "longitude": 101.735889
@@ -404,10 +474,13 @@
     "phone": "03-22760042",
     "fax": "03-22722053",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "McDelivery",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
     "latitude": 3.133295,
     "longitude": 101.687277
@@ -416,18 +489,21 @@
     "name": "McDonald's Sri Petaling",
     "address": "No 63 & 63-1, Jalan Radin Tengah, Bandar Baru Sri Petaling, 57000, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.068888%2C101.6918",
     "phone": "03-90540493",
     "fax": "03-90540493",
     "services": [
-      "McCafe",
-      "WiFi",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.068888,
+    "longitude": 101.6918
   },
   {
     "name": "McDonald's Mid Valley 3",
@@ -437,9 +513,12 @@
     "phone": "03-22010506",
     "fax": "03-22012437",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
     "latitude": 3.117399,
     "longitude": 101.677572
@@ -448,31 +527,39 @@
     "name": "McDonald's KL Sentral",
     "address": "Lot 14, 15, & 16, First Floor, Kuala Lumpur Sentral Station, 50470, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.134615%2C101.686593",
+    "waze_link": null,
     "phone": "03-22722431",
     "fax": "03-22798797",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
-    "latitude": 3.134615,
-    "longitude": 101.686593
+    "latitude": null,
+    "longitude": null
   },
   {
     "name": "McDonald's Suria KLCC",
     "address": "Lot C35 - 38, Concourse Floor, Suria KLCC Shopping Centre, Jalan Ampang, 50088, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.157474%2C101.712164",
     "phone": "03-27151512",
     "fax": "03-27151512",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.157474,
+    "longitude": 101.712164
   },
   {
     "name": "McDonald's MyTown Mall",
@@ -482,10 +569,13 @@
     "phone": "03-27322567",
     "fax": "03-27322566",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "McDelivery",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
     "latitude": 3.134208,
     "longitude": 101.723645
@@ -494,17 +584,20 @@
     "name": "McDonald's Sunway Velocity Mall",
     "address": "LG, Sunway Velocity Mall, Jalan Peel, 55100, Kuala Lumpur, Malaysia",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.127299%2C101.724463",
     "phone": "03-27320717",
     "fax": "03-27320717",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "McDelivery",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.127299,
+    "longitude": 101.724463
   },
   {
     "name": "McDonald's Intermark Mall",
@@ -514,10 +607,14 @@
     "phone": "03-27155667",
     "fax": "03-27155667",
     "services": [
-      "McCafe",
+      "Dessert Center",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "McCafe"
     ],
     "latitude": 3.161279,
     "longitude": 101.720181
@@ -530,12 +627,15 @@
     "phone": "03-41310897",
     "fax": "03-41317105",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.2066149,
     "longitude": 101.7175568
@@ -544,18 +644,21 @@
     "name": "McDonald's Desa Park City DT",
     "address": "Lot GF32 & FF31, Waterfront Parkcity, Persiaran Residen, Desapark City, 52200 Kuala Lumpur.",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.1877337%2C101.62778",
     "phone": "03-62611632",
     "fax": "03-62610971",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.1877337,
+    "longitude": 101.62778
   },
   {
     "name": "McDonald's Pearl Point DT",
@@ -565,11 +668,14 @@
     "phone": "03-79712465",
     "fax": "",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.084915,
     "longitude": 101.673568
@@ -582,10 +688,13 @@
     "phone": "03-21815851",
     "fax": "",
     "services": [
-      "McCafe",
-      "WiFi",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi",
+      "McCafe"
     ],
     "latitude": null,
     "longitude": null
@@ -598,11 +707,14 @@
     "phone": "03-62500090",
     "fax": "",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.208163,
     "longitude": 101.653579
@@ -611,18 +723,21 @@
     "name": "McDonald's Shell Jalan Sentul DT",
     "address": "PT 8938, Jalan Sentul/Batu Caves, Mukim Setapak, Sentul, 51100 Kuala Lumpur",
     "operating_hours": {},
-    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.12223%2C101.41208",
+    "waze_link": null,
     "phone": "016-2127692",
     "fax": "",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
-    "latitude": 3.12223,
-    "longitude": 101.41208
+    "latitude": null,
+    "longitude": null
   },
   {
     "name": "McDonald's Wisma Lim Foo Yong",
@@ -632,9 +747,12 @@
     "phone": "03-21102479",
     "fax": "",
     "services": [
-      "WiFi",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "WiFi"
     ],
     "latitude": 3.09032,
     "longitude": 101.42334
@@ -647,11 +765,14 @@
     "phone": "03-27029214",
     "fax": "",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.202057,
     "longitude": 101.689976
@@ -664,10 +785,13 @@
     "phone": "03-92013561",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
+      "Cashless Facility",
       "Drive-Thru",
-      "McCafe",
       "WiFi",
-      "24 Hours"
+      "McCafe"
     ],
     "latitude": 3.15191975,
     "longitude": 101.745321
@@ -676,29 +800,35 @@
     "name": "McDonald's Shell Bukit Bintang DT",
     "address": "225, Bukit Bintang St, Imbi, 55100 Kuala Lumpur, Federal Territory Of Kuala Lumpur",
     "operating_hours": {},
-    "waze_link": null,
+    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.14752%2C101.7178428",
     "phone": "03-21101876",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "Cashless Facility",
       "Drive-Thru",
       "WiFi"
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 3.14752,
+    "longitude": 101.7178428
   },
   {
     "name": "McDonald's Shell Jalan Kuching DT",
     "address": "Lot 58043, Jalan Kuching, Mukim Batu 68100, Wlayah Persekutuan Kuala Lumpur",
     "operating_hours": {},
-    "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.223098%2C101.6721257",
+    "waze_link": null,
     "phone": "",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "Cashless Facility",
       "Drive-Thru",
       "WiFi"
     ],
-    "latitude": 3.223098,
-    "longitude": 101.6721257
+    "latitude": null,
+    "longitude": null
   },
   {
     "name": "McDonald's Shell Wangsa Maju DT",
@@ -708,6 +838,9 @@
     "phone": "03-41315949",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "Cashless Facility",
       "Drive-Thru",
       "WiFi"
     ],
@@ -722,10 +855,13 @@
     "phone": "03-26022147",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
+      "Cashless Facility",
       "Drive-Thru",
-      "McCafe",
       "WiFi",
-      "24 Hours"
+      "McCafe"
     ],
     "latitude": null,
     "longitude": null
@@ -738,10 +874,13 @@
     "phone": "03-62423593",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
+      "Cashless Facility",
       "Drive-Thru",
-      "McCafe",
       "WiFi",
-      "24 Hours"
+      "McCafe"
     ],
     "latitude": 3.18298,
     "longitude": 101.65492
@@ -754,10 +893,15 @@
     "phone": "03-22411097",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "Electric Vehicle",
+      "Surau",
+      "24 Hours",
+      "Cashless Facility",
       "Drive-Thru",
-      "McCafe",
       "WiFi",
-      "24 Hours"
+      "McCafe"
     ],
     "latitude": 3.101972,
     "longitude": 101.666333
@@ -770,10 +914,13 @@
     "phone": "",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
+      "Cashless Facility",
       "Drive-Thru",
-      "McCafe",
       "WiFi",
-      "24 Hours"
+      "McCafe"
     ],
     "latitude": 3.196826,
     "longitude": 101.7137842
@@ -786,10 +933,13 @@
     "phone": "03-41085134",
     "fax": "",
     "services": [
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
+      "Cashless Facility",
       "Drive-Thru",
-      "McCafe",
       "WiFi",
-      "24 Hours"
+      "McCafe"
     ],
     "latitude": 3.207414,
     "longitude": 101.7515586
@@ -802,12 +952,15 @@
     "phone": "03-40311346",
     "fax": "03-40224072",
     "services": [
-      "Drive-Thru",
-      "McCafe",
+      "McDelivery",
+      "Breakfast",
+      "Digital Order Kiosk",
       "WiFi",
+      "24 Hours",
       "Birthday Party",
-      "Delivery",
-      "24 Hours"
+      "Cashless Facility",
+      "Drive-Thru",
+      "McCafe"
     ],
     "latitude": 3.179551,
     "longitude": 101.700383
@@ -820,9 +973,12 @@
     "phone": "03-79720127",
     "fax": "",
     "services": [
-      "McCafe",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
+      "Cashless Facility",
       "WiFi",
-      "24 Hours"
+      "McCafe"
     ],
     "latitude": 3.10078878,
     "longitude": 101.68613031
@@ -835,9 +991,12 @@
     "phone": "",
     "fax": "",
     "services": [
-      "McCafe",
+      "Breakfast",
+      "Digital Order Kiosk",
+      "24 Hours",
+      "Cashless Facility",
       "WiFi",
-      "24 Hours"
+      "McCafe"
     ],
     "latitude": 3.0845,
     "longitude": 101.700753

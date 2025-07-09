@@ -20,6 +20,7 @@ def haversine(lat1, lon1, lat2, lon2):
 
 def compute_and_store_catchments():
     db: Session = next(get_db())
+    db.query(OutletProximity).delete()
     outlets = db.query(Outlet).filter(Outlet.latitude != None, Outlet.longitude != None).all()
 
     logger.info(f"Calculating catchments for {len(outlets)} outlets...")
