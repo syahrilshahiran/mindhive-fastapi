@@ -1,15 +1,15 @@
 import logging
 from sqlalchemy.orm import Session
-from database import get_db 
+from database import get_db
 from models import Outlet, OutletVector
-from ollama import embeddings
 from sqlalchemy.exc import IntegrityError
 from tqdm import tqdm
+
+from utils.embedding import get_query_embedding
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-EMBEDDING_MODEL = "nomic-embed-text"
 
 def generate_outlet_summary(outlet: Outlet) -> str:
     """
@@ -51,13 +51,6 @@ def generate_outlet_summary(outlet: Outlet) -> str:
 
     return summary
 
-def generate_embedding(text: str) -> list[float]:
-    """Generate embedding for a given text using the specified embedding model"""
-    response = embeddings(
-        model=EMBEDDING_MODEL,
-        prompt=text
-    )
-    return response["embedding"]
 
 def upload_outlet_vectors():
     """Upload outlet vectors to the database"""
@@ -72,15 +65,13 @@ def upload_outlet_vectors():
 
         summary = generate_outlet_summary(outlet)
         try:
-            embedding = generate_embedding(summary)
+            embedding = get_query_embedding(summary)
         except Exception as e:
             logger.error(f"Embedding failed for {outlet.name}: {e}")
             continue
 
         vector_record = OutletVector(
-            outlet_id=outlet.id,
-            summary=summary,
-            embedding=embedding
+            outlet_id=outlet.id, summary=summary, embedding=embedding
         )
 
         db.add(vector_record)
@@ -92,8 +83,9 @@ def upload_outlet_vectors():
 
     logger.info("Vector upload complete.")
 
+
 if __name__ == "__main__":
     """Main function to run the script
-        Command to run: python -m scripts.upload_vector
+    Command to run: python -m scripts.upload_vector
     """
     upload_outlet_vectors()
