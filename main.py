@@ -10,7 +10,7 @@ app = FastAPI()
 # CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Change for production
+    allow_origins=["https://mindhive-frontend.vercel.app"],  # Change for production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
